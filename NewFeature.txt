@@ -1,1 +1,2 @@
 This is to create a new feature in thr product.
+Modified the file to resolve a bug in Feature branch.
