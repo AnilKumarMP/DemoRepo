@@ -1,2 +1,3 @@
 This is a demo on GIT Comparison. Comparing between Working Directory and Staging Area.
 Comparing the file between Working Directory and Local Repo after committing the file.
+Updated the file to compare this file in central repo.
