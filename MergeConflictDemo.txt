@@ -1,1 +1,1 @@
-Initial version file to show merge conflict in master branch.
+Final version file to show merge conflict in master branch.
